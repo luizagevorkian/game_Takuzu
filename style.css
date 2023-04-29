@@ -1,0 +1,14 @@
+html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+  .restart {
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 10px 20px; /* Отступы вокруг текста */
+    border: none; /* Убрать границу */
+    border-radius: 5px; /* Закруглить углы */
+    cursor: pointer; /* Курсор при наведении */
+}
